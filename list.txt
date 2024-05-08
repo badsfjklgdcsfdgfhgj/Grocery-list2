@@ -1,1 +1,4 @@
 This is the shopping list
+Milk
+Eggs
+Beer
